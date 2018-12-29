@@ -1,2 +1,2 @@
 # Ryu404
-Awokwkwk
+ERROR 4.0.4 LIFE NOT FOUND
